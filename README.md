@@ -2,6 +2,9 @@
 
 This bot is an easy-to-use, beginner-friendly Discord bot built using **Discord.js**. It features a comprehensive command handler, a full database integration, music commands, and more. Whether you're looking to customize it for your own Discord server or just want to learn how to build bots, this bot is a perfect starting point!
 
+> ⚠️ **Deprecated Notice**  
+> As of July 2019, this project is no longer maintained and may not function as intended. Use at your own risk.
+
 ### Key Features:
 - **Full Command Handler**: Easily manage and organize commands with a modular system.
 - **Database System**: Store and retrieve data using a built-in database for persistence.
